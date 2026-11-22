@@ -36,7 +36,7 @@ main {
 }
 
 /* Intro */
-.intro { margin-bottom: 56px; }
+.intro { margin-bottom: 32px; }
 
 .name-line {
   display: flex;
