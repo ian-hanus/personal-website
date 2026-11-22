@@ -166,3 +166,6 @@ a:hover {
 @media (prefers-reduced-motion: reduce) {
   .cursor { animation: none; }
 }
+
+/* Past lives inside about */
+section p + .past-list { margin-bottom: 12px; }
